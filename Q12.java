@@ -19,5 +19,3 @@ public class Q12 {
         System.out.println(data);
     }
 }
-
-2025-06-21
